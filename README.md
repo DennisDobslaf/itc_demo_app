@@ -49,3 +49,7 @@ auch eine Vorlage liefern.
 
 [PHP Skeleton](https://github.com/php-pds/skeleton)
 
+
+Weitere Dokumentation
+[DB Struktur](/docs/Datenstrukturen.md)
+
