@@ -8,7 +8,7 @@ auch eine Vorlage liefern.
 
 - Grundsätzliches Vorgehen zeigen beim Start mit PHP
 - Kurze Einführung in Git
- - Nur die Basics! Repository anlegen, git pull, git commit, git push
+ - Nur die Basics! Repository anlegen, git pull, git commit, git push(, git status)
 - Projekt aufsetzen in PhpStorm (Ordner-Struktur nach Skeleton Beispiel erklären)
  - config: mehrere Möglichkeiten; am einfachsten: In der Sprache PHP bleiben -> arrays
  - public: Frontpage
