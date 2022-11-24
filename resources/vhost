@@ -1,0 +1,9 @@
+# MINIMALE(!) Beispiel-Konfiguration eines VHOST
+# Speicherort: <xampp>/apache/conf/extra/vhost.conf
+# Wichtig: ServerName muss in lokaler hosts Datei stehen!
+# Windows: C:\Windows\System32\drivers\etc\hosts (mit Admin-Rechten öffnen)
+
+<VirtualHost *:80>
+    DocumentRoot "C:/xampp/htdocs/itc_demo_app/public"
+    ServerName itc_demo_app.local
+</VirtualHost>
