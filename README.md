@@ -34,10 +34,18 @@ auch eine Vorlage liefern.
 ## Quellen
 
 [Git](https://git-scm.com/)
+
 [GitHub](https://github.com/)
+
 [GitLab](https://gitlab.com/)
+
 [Markdown](https://www.markdownguide.org/basic-syntax/)
+
 [Bootstrap](https://getbootstrap.com/)
+
 [Bootstrap Templates](https://startbootstrap.com/themes?showAngular=false&showVue=false&showPro=false)
+
 ["Clean Blog"](https://startbootstrap.com/theme/clean-blog)
+
 [PHP Skeleton](https://github.com/php-pds/skeleton)
+
